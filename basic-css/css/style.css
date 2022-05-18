@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    background-color: gold;
+}
+
+h2{
+    color: purple;
+    font-weight: 300;
+    border: solid orange 3px;
+    font-size: 25px;
+
+}
+
+p{
+    width: 50%;
+    height: 200px;
+    background-color: grey;
+    color: white;
+}
+
+h3{
+    background-color: black;
+    border: lightgreen;
+    font-size: 20px;
+    color: white;
+    font-family: roboto;
+}
+
+<footer>
+    <h3>Make this footer have a black background, with light green border, and this text 20px white plus a font-family of Roboto</h3>
+</footer>
