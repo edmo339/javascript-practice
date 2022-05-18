@@ -32,6 +32,7 @@ function whatsMyAgeAgain () {
     }
     else if ( age < 21){
         console.log("You cannot drink")
+        
     }
     else if ( age < 25){
         console.log("You cannot rent cars affordably")
